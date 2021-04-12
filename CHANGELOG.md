@@ -1,25 +1,221 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.0.4: Various Updates; Savefile Safe](#204-various-updates-savefile-safe)
+  - [2.1.0: Various Updates](#210-various-updatesnot-savefile-safe)
     - [Mods Added](#mods-added)
+    - [Mods Removed](#mods-removed)
     - [Mods Updated](#mods-updated)
     - [Patcher Output Updates](#patcher-output-updates)
-  - [2.0.3: Visual Update; Savefile Safe](#203-visual-update-savefile-safe)
+  - [2.0.4: Various Updates](#204-various-updatessavefile-safe)
     - [Mods Added](#mods-added-1)
-    - [Mods Removed](#mods-removed)
     - [Mods Updated](#mods-updated-1)
-  - [2.0.2: Minor Updates; Savefile Safe](#202-minor-updates-savefile-safe)
+    - [Patcher Output Updates](#patcher-output-updates-1)
+  - [2.0.3: Visual Update](#203-visual-updatesavefile-safe)
     - [Mods Added](#mods-added-2)
     - [Mods Removed](#mods-removed-1)
+    - [Mods Updated](#mods-updated-2)
+  - [2.0.2: Minor Updates](#202-minor-updatessavefile-safe)
+    - [Mods Added](#mods-added-3)
+    - [Mods Removed](#mods-removed-2)
     - [Other Changes](#other-changes)
   - [2.0.1: You Should Update! Fixes game breaking bug](#201-you-should-update-fixes-game-breaking-bug)
-    - [Mods Removed](#mods-removed-2)
-    - [Mods Updated](#mods-updated-2)
+    - [Mods Removed](#mods-removed-3)
+    - [Mods Updated](#mods-updated-3)
     - [Other Changes](#other-changes-1)
   - [2.0: Welcome to the Special Edition](#20-welcome-to-the-special-edition)
 
-## 2.0.4: Various Updates; Savefile Safe
+## 2.1.0: [Various Updates](NOT Savefile Safe)
+
+This update brings us back up-to-date with current EnderalSE and EGO versions which include many bug fixes.  Additionally I've done alot of work rounding out our visual package and fixing issues reported on github. 
+
+I know some of the mods chosen may seem odd for Enderal but I assure you only the bits of each that actually apply have been utilized.  101 Bugs HD for instance is only being used for bug effects and a dragonfly replacer... none of the new critters have been brought forward.
+
+Plans for next update include more expansions of the EMW Asset Replacer and hopefully the addition of Engarde for melee combat.
+
+### Mods Added
+
+- 101 Bugs HD [v4.1](21 CREATURES)
+- 3D Junipers - Trees and Berries [0.1](09 TREES & PLANTS)
+- 3D Solitude Market Trellis [1.0](14 MISC STRUCTURES)
+- 3D Whiterun Trellis [1.1](14 MISC STRUCTURES)
+- Ancestral Spirit Replacer [1.0](21 CREATURES)
+- Ancient Dwemer Metal - All The Patches [Update-FINAL-v3](16 DUNGEONS)
+- Ancient Trees Of Skyrim [2.5](09 TREES & PLANTS)
+- Actual Panthers [1.0](21 CREATURES)
+- Animated Clutter [1.9](17 CLUTTER)
+- Arp [2.12](21 CREATURES)
+- Aspens Ablaze [2.32](09 TREES & PLANTS)
+- Awesome HD Barrels [1.0](14 MISC STRUCTURES)
+- Better Browner Bread [1.1](18 FOOD & INGREDIENTS)
+- Better Falmer Cave Ceiling Glow [1.0](16 DUNGEONS)
+- Better Nirnroot [2.0](09 TREES & PLANTS)
+- Better-Shaped Talos with Greatsword [1.3](14 MISC STRUCTURES)
+- Better Windhelm Ground Meshes [1.3.1](13 ARCHITECTURE)
+- Burned Book Retexture [1.0](17 CLUTTER)
+- Business Ledger HD [1.0](17 CLUTTER)
+- Butterfly Improved [1.0](18 FOOD & INGREDIENTS)
+- Canons [1.0](14 MISC STRUCTURES)
+- Chaurus Eggs [2.1](18 FOOD & INGREDIENTS)
+- Cork Retexture [1.0](08 VISUAL FX)
+- Corpse Burned [1.0](08 VISUAL FX)
+- Crosssection of Mammoth Snout [0.21](18 FOOD & INGREDIENTS)
+- Daedra-tastic Rune Spells [1.4](08 VISUAL FX)
+- Deadly Spell Impacts [1.70](08 VISUAL FX)
+- Deadly Spell Impacts - Transparency Fix [2.0](08 VISUAL FX)
+- Deer Skull and Antlers Retexture [1.2](17 CLUTTER)
+- Dragon Glyphs HD - Fixed [2.2.1](16 DUNGEONS)
+- Dust Effects [1.0](08 VISUAL FX)
+- Dwemer Pipework Reworked [3.1](16 DUNGEONS)
+- ElSopa HD - Briar Heart [1.0](18 FOOD & INGREDIENTS)
+- ElSopa HD - Dirt Blast [1.0](08 VISUAL FX)
+- ElSopa HD - Meridias Beacon [1.0](17 CLUTTER)
+- ENB Light - Undead Creatures [1.0](35 ENB PARTICLE LIGHTS)
+- Equip Enchantment Fix [1.2.3](02 FIXES)
+- Falmer Sounds [3.0](32 SOUND EFFECTS)
+- Gemstones Replacers HD [1.2](17 CLUTTER)
+- HD Bees and Honeycombs [1.0](18 FOOD & INGREDIENTS)
+- HD Blacksmith Signs [1.0](14 MISC STRUCTURES)
+- Flora Mod Collection - Fern [1.0](09 TREES & PLANTS)
+- Flora Mod Collection - Green ivy [1.0](09 TREES & PLANTS)
+- Glorious Doors of Skyrim [1.04](13 ARCHITECTURE)
+- HD Dead Trees and Driftwoods [1.1](09 TREES & PLANTS)
+- HD Dead Trees and Driftwoods - Mesh Fix [1.1](09 TREES & PLANTS)
+- HD Falmer Huts [2.5](13 ARCHITECTURE)
+- HD Werewolves [1.0](21 CREATURES)
+- High Poly Blackreach Mushrooms [1.1](09 TREES & PLANTS)
+- Honey pot [1.3BETA](18 FOOD & INGREDIENTS)
+- House at the Marketplace - Redone [1.8](30 CONTENT ADDON)
+- HQ Tree Bark [1.1](09 TREES & PLANTS)
+- Holy Wards [1.2](08 VISUAL FX)
+- Horncandles.by.Kajuan [1.1](15 INTERIORS)
+- Iconic's Bust Of The Gray Fox Retexture [1.0](17 CLUTTER)
+- Improved Gourds [1.0](09 TREES & PLANTS)
+- Improved UI Sounds [1.0](32 SOUND EFFECTS)
+- Ingredients [6.0](18 FOOD & INGREDIENTS)
+- JS Dragon Claws [1.0](17 CLUTTER)
+- JS Purses and Septims [1.1](17 CLUTTER)
+- Improved Dwemer Glass [1.1](16 DUNGEONS)
+- Jazbay by Mari [1.1](09 TREES & PLANTS)
+- Less Distracting Blowing Snow Effects for ENB Particle Patch [1.0](08 VISUAL FX)
+- Less Ugly Tundragrass [1.0](09 TREES & PLANTS)
+- Maps [1.2](28 MISCELLANEOUS)
+- Markarth - A Reflective Experience [1.3](10 LANDSCAPE)
+- Northfire's Skidmarks [1.0](10 LANDSCAPE)
+- OIL [2.0](08 VISUAL FX)
+- Orc Settlements Enhanced [1.1](13 ARCHITECTURE)
+- Photoreal Foxes [3.0](21 CREATURES)
+- Pine Branches Redone [2.0](09 TREES & PLANTS)
+- Pine Shrubs Redone [1.0](09 TREES & PLANTS)
+- Quality Cubemaps [1.02](05 GRAPHICS BASELINE)
+- Rally's Bed Pillows HQ [1.1](15 INTERIORS)
+- Rally's Hanging Moss [1.1](09 TREES & PLANTS)
+- Rally's Lava [1.1](16 DUNGEONS)
+- Rally's Quill and Inkwell [1.0](17 CLUTTER)
+- Rally's Werewolf Totems [1.0](17 CLUTTER)
+- R.A.S.S - Rain Ash and Snow Shaders [3.2.2](08 VISUAL FX)
+- Reach Tree Replacer [1.2](09 TREES & PLANTS)
+- REAL ELKS [1.0](21 CREATURES)
+- Realistic Skin Shaders - Falmer [1.03](21 CREATURES)
+- Remastered Ash Piles Of Skyrim [1.1](08 VISUAL FX)
+- Renthal's Waterwheel [1.1](14 MISC STRUCTURES)
+- Retexture for the Scroll [2.5.3](17 CLUTTER)
+- Rudy HQ - Falling Leaves and Needles [1.0](09 TREES & PLANTS)
+- Rudy HQ - Hay [1.4](14 MISC STRUCTURES)
+- Rudy HQ - Nordic Ruins [1.0](16 DUNGEONS)
+- Rudy HQ - Miscellaneous [1.02](17 CLUTTER)
+- Rudy HQ - Standing Stones [1.0](16 DUNGEONS)
+- RUSTIC SPRIGGAN [1.0](21 CREATURES)
+- Scrambled Bugs [5.0](02 FIXES)
+- SD's Horn Candles [1.0](15 INTERIORS)
+- SD's Farmhouse Fences [1.0](14 MISC STRUCTURES)
+- Sharpening Wheel HD [1.0](14 MISC STRUCTURES)
+- Sink or Swim [1.8](03 TWEAKS)
+- Skeleton.by.Kajuan [1.2](21 CREATURES)
+- Skyrim 3D Docks and Boardwalks [1.0](14 MISC STRUCTURES)
+- Skyrim 3D Trees and Plants [5.0.1](09 TREES & PLANTS)
+- Skyrim 3D Trees and Plants - Purple Mountain Flower Restored [1.0](09 TREES & PLANTS)
+- Skyrim Remastered - Caves [1.0](16 DUNGEONS)
+- Skyrim Remastered - Glaciers and Ice [1.0](10 LANDSCAPE)
+- Skyrim Remastered - High Hrothgar [1.0](13 ARCHITECTURE)
+- Skyrim Remastered - Metal Cages and SMIM Imperial Jails [1.0](17 CLUTTER)
+- Skyrim Textures Redone - SkyHaven [1.0](13 ARCHITECTURE)
+- SkyVRaan [1.0](10 LANDSCAPE)
+- Soulgems [1.2](17 CLUTTER)
+- Sovngarde HD [3.0](13 ARCHITECTURE)
+- Spider Webs and Particles for ENB [1.0](08 VISUAL FX)
+- Splashes Of Skyrim [1.2](08 VISUAL FX)
+- Stockades of Skyrim 3D [0.5](14 MISC STRUCTURES)
+- Sufficiently Optimized Snowberries 3D [0.6](09 TREES & PLANTS)
+- Static Mesh improvement Mod - Quality Addon [1.3](01 ESSENTIAL MODS)
+- Stunning Statues of Skyrim [1.5](14 MISC STRUCTURES)
+- The Book Of The Wild [1.5](32 SOUND EFFECTS)
+- Take Notes [1.0alpha](04 INTERFACE)
+- Vanilla Table Replacers [1.1](17 CLUTTER)
+- Vatyr [2.21](21 CREATURES)
+- What No Manhole [1.0](13 ARCHITECTURE)
+- Whiterun Mesh Fixes [1.05](13 ARCHITECTURE)
+- Windhelm Enhanced - HD Metalwork [1.5](13 ARCHITECTURE)
+- WS Modules for Lighting Mods [1.0](25 ENB PARTICLE LIGHTS)
+- Wood Fires - REDUX [1.4](07 LIGHTING)
+
+### Mods Removed
+
+- DweFarm01 and DweFarm02 Mesh Fix Replacer [1.3](02 FIXES)
+- Enhanced Textures Detail (UV-tweaks) [1.1.5](01 ESSENTIAL MODS)
+- Fire Halo Remover [1.0](08 VISUAL FX)
+- Forsworn and Blackblood and Boethiah Tattoos [1.0](12 NPC OVERHAULS)
+- Gecko's Dwarven Ruins Textures [1.1](16 DUNGEONS)
+- High Poly Project [4.95](05 GRAPHICS BASELINE)
+- Improved Dragonfly [1.0](18 FOOD & INGREDIENTS)
+- Just Fangs From BVFE [1.0](12 NPC OVERHAULS)
+- MultiLayer Parallax Soul Gems [1.0](17 CLUTTER)
+- No Stretching [2.2](02 FIXES)
+- Old Arps [1.0](21 CREATURES)
+- Rally's Smithy [1.2](17 CLUTTER)
+- PAINTERLY [1.0](12 NPC OVERHAULS)
+- Pretty Rugs [1.0](15 INTERIORS)
+- Realistic HD Mushrooms Remasted [1.2](09 TREES & PLANTS)
+- Restored Vatyr Variants [1.0](21 CREATURES)
+- Skyrim 3D Misc - Butterchurn [1.0.1](17 CLUTTER)
+- Skyrim 3D Misc - Markarth Cage [1.0](17 CLUTTER)
+- Smoking Torches and Candles [1.75](07 LIGHTING)
+- The Bank of Ark [1.0](30 CONTENT ADDON)
+- Vanilla Armor Replacer [1.0](19 APPAREL & WEAPONS)
+- Vanilla Makeup HD [1.0.1](12 NPC OVERHAULS)
+  
+### Mods Updated
+
+- Assorted Mesh Fixes [0.15](01 ESSENTIAL MODS)
+- Boreal Boats [1.3](13 ARCHITECTURE)
+- Bug Fixes [3.0](02 FIXES)
+- Display Tweaks [0.4.9-1](01 ESSENTIAL MODS)
+- Enderal - Gameplay Overhaul [1.73](23 GAMEPLAY OVERHAULS)
+- Enderal - Gameplay Overhaul - Official Patches [1.07](23 GAMEPLAY OVERHAULS)
+- Enderal Apothekarii Monastery [1.01](30 CONTENT ADDON)
+- Enderal SE [2.0.7](00 BASE GAME)
+- Enderal SE - Bug Fixes [1.26.2](02 FIXES)
+- Enderal Tracking Tool [2.0](28 MISCELLANEOUS)
+- Flinching [1.36](33 SKELETON & ANIMATIONS)
+- Mod Organizer 2 [2.4.1]
+- Myths and Legends VI - The Forgotten One [1.1](30 CONTENT ADDON)
+- Pi-Cho ENB [N5.9](ENB)
+- Pus Beetle Replacer [1.0](21 CREATURES)
+- Spell Perk Item Distributor [4.4](34 UTILITIES)
+- Stagger Direction Fix [2.2a](02 FIXES)
+- Undead Creatures Replacers [1.1u](21 CREATURES)
+- Various Creature Replacers [1.4v](21 CREATURES)
+- WMFF - Revamped [3.2](02 FIXES)
+
+### Patcher Output Updates
+
+- EMW ALLGUD Output
+- EMW DynDOLOD Output
+- EMW Nemesis Output
+- EMW Grass Cache
+- EMW TexGen Output
+- EMW xLODGen Output
+
+## 2.0.4: [Various Updates](Savefile Safe)
 
 Armor of Intrigue has been added as a replacer for Jespar's outfit and is not obtainable as player gear.  The outfit has been edited such that the change results in no stat changes and balance is maintained.  If you have already encountered Jespar then, in order to see the changed outfit, you will need to open the console, click Jespar and enter the `resetinventory` command. This will force him to change into the newly added outfit.
 
@@ -59,7 +255,7 @@ In order for the ENB update to apply you need to delete the `enbseries` folder f
 - EMW ALLGUD Output
 - EMW Nemesis Output
 
-## 2.0.3: Visual Update; Savefile Safe
+## 2.0.3: [Visual Update](Savefile Safe)
 
 If you were using any of the circlets from Circlets Forged they will be gone after you update.  The mod was removed because it didn't come with blueprints and I didn't feel like making blueprints for all the newly added circlets.  This may be re-added in the future when I'm not feeling so lazy.
 
@@ -83,7 +279,7 @@ Mythical Rudy ENB was replaced due to issues with interior lighting.  The new EN
 - Project Clarity - Effects Textures Redone [2.3](05 GRAPHICS BASELINE)
 - 
 
-## 2.0.2: Minor Updates; Savefile Safe
+## 2.0.2: [Minor Updates](Savefile Safe)
 
 If you had anything stored in the 'Secure Chest' containers included in the newly added housing on the Sun Coast you should remove everything before you update.  Failure to do so will result in loss of the contents.
 

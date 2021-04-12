@@ -29,8 +29,7 @@
     "!typescript",
     "!typescriptreact",
     "!yaml",
-    "!yml",
-    "markdown"
+    "!yml"
   ],
   "cSpell.language": "en,en-GB,en-US",
   "cSpell.words": [

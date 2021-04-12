@@ -333,6 +333,7 @@ Much effort has been spent to improve immersion and the combat experience via be
 # Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
+- Kratores#4997 for his awesome work optimizing the list for potato rigs!
 - Lotus by erri120 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are they
 
