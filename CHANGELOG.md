@@ -1,28 +1,101 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.1.0: Various Updates](#210-various-updatesnot-savefile-safe)
+  - [2.1.2: Hotfix Update](#212-hotfix-updatesavefile-safe)
     - [Mods Added](#mods-added)
     - [Mods Removed](#mods-removed)
     - [Mods Updated](#mods-updated)
+  - [2.1.1: Hotfix Update](#211-hotfix-updatesavefile-safe)
+    - [Mods Added](#mods-added-1)
+    - [Mods Removed](#mods-removed-1)
+    - [Mods Updated](#mods-updated-1)
+  - [2.1.0: Various Updates](#210-various-updatesnot-savefile-safe)
+    - [Mods Added](#mods-added-2)
+    - [Mods Removed](#mods-removed-2)
+    - [Mods Updated](#mods-updated-2)
     - [Patcher Output Updates](#patcher-output-updates)
   - [2.0.4: Various Updates](#204-various-updatessavefile-safe)
-    - [Mods Added](#mods-added-1)
-    - [Mods Updated](#mods-updated-1)
+    - [Mods Added](#mods-added-3)
+    - [Mods Updated](#mods-updated-3)
     - [Patcher Output Updates](#patcher-output-updates-1)
   - [2.0.3: Visual Update](#203-visual-updatesavefile-safe)
-    - [Mods Added](#mods-added-2)
-    - [Mods Removed](#mods-removed-1)
-    - [Mods Updated](#mods-updated-2)
+    - [Mods Added](#mods-added-4)
+    - [Mods Removed](#mods-removed-3)
+    - [Mods Updated](#mods-updated-4)
   - [2.0.2: Minor Updates](#202-minor-updatessavefile-safe)
-    - [Mods Added](#mods-added-3)
-    - [Mods Removed](#mods-removed-2)
+    - [Mods Added](#mods-added-5)
+    - [Mods Removed](#mods-removed-4)
     - [Other Changes](#other-changes)
   - [2.0.1: You Should Update! Fixes game breaking bug](#201-you-should-update-fixes-game-breaking-bug)
-    - [Mods Removed](#mods-removed-3)
-    - [Mods Updated](#mods-updated-3)
+    - [Mods Removed](#mods-removed-5)
+    - [Mods Updated](#mods-updated-5)
     - [Other Changes](#other-changes-1)
   - [2.0: Welcome to the Special Edition](#20-welcome-to-the-special-edition)
+
+## 2.1.2: [Hotfix Update](Savefile Safe)
+
+This update is just minor tweaks to resolve a few issues found in 2.1.1 and is totally safe to install.
+
+- ENB - Darkened interiors
+- ENB - Brightened nights - slightly
+- ENB - Improved performance
+- Fixed missing blacksmith hammer textures
+- Fixed missing silver sword scabbard textures
+- Fixed spiderweb brightness
+- Fixed interior water drop brightness
+  
+  Note: You need to copy the `Game Folder Files` again in order to get the updated ENB tweaks.
+
+### Mods Added
+
+- Delectable Docks [1.1](11 VANILLA LOCATIONS)
+- Forgotten Dungeons - Riverville Catacombs [1.0](30 CONTENT ADDON)
+- HQD Children Clothing Redraw [1.0](19 APPAREL & WEAPONS)
+- HQD Citizens Clothing Redraw [1.1](19 APPAREL & WEAPONS)
+- HQD Citizens Clothing - Hoods Gloves and Shoes [1.0](19 APPAREL & WEAPONS)
+- HQD Jarls Clothing Redraw [1.1](19 APPAREL & WEAPONS)
+- HQD Traveler Clothing Redraw [1.0](19 APPAREL & WEAPONS)
+- Riverville Catacombs [1.0](30 CONTENT ADDON)
+- Super Fast Get Up Animation [1.0](33 SKELETON & ANIMATIONS)
+
+### Mods Removed
+
+- Animated Clutter [1.9](17 CLUTTER)
+
+### Mods Updated
+
+- Assorted Mesh Fixes [0.16](02 Fixes)
+- Enderal - Gameplay Overhaul [1.74](23 GAMEPLAY OVERHAULS)
+- Papyrus Extender [4.3.5](34 UTILITIES)
+  
+## 2.1.1: [Hotfix Update](Savefile Safe)
+
+This update is just minor tweaks to resolve a few issues found in 2.1.0 and is totally safe to install.
+
+- Fixed broken map
+- Defaulted to Octavia's Preset 
+- Disabled 21x9 mods by default
+- Disabled DOF by default on ENB
+- Fixed apiary textures
+- Fixed a couple broken Lost Ones
+- Fixed missing fire spell effects on hands
+- Fixed missing hoe texture
+- Fixed overly noisy water
+
+### Mods Added
+
+- SkyHUD [0.90B](04 INTERFACE)
+- Storeable Phasmalist Talismans [1.0](28 MISC)
+
+### Mods Removed
+
+- All Geared Up Derivative - Medieval Torch Patch [1.1](33 SKELETON & ANIMATIONS)
+- Improved Gourds [1.0](09 TREES & PLANTS)
+- Medieval Torch [1.02](17 CLUTTER)
+
+### Mods Updated
+
+- Enderal SE - Bugfixes [1.26.2](02 FIXES)
 
 ## 2.1.0: [Various Updates](NOT Savefile Safe)
 
