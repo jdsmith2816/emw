@@ -17,7 +17,7 @@
     "gulp-markdown-pdf": "^8.0.0",
     "gulp-zip": "^5.0.1",
     "markdown-pdf": "^10.0.0",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "gulp-execa": "^2.0.0",
