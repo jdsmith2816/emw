@@ -1,36 +1,105 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [2.1.2: Hotfix Update](#212-hotfix-updatesavefile-safe)
+  - [2.2.0: Engarde](#220-engardenot-savefile-safe)
     - [Mods Added](#mods-added)
     - [Mods Removed](#mods-removed)
     - [Mods Updated](#mods-updated)
-  - [2.1.1: Hotfix Update](#211-hotfix-updatesavefile-safe)
+  - [2.1.2: Hotfix Update](#212-hotfix-updatesavefile-safe)
     - [Mods Added](#mods-added-1)
     - [Mods Removed](#mods-removed-1)
     - [Mods Updated](#mods-updated-1)
-  - [2.1.0: Various Updates](#210-various-updatesnot-savefile-safe)
+  - [2.1.1: Hotfix Update](#211-hotfix-updatesavefile-safe)
     - [Mods Added](#mods-added-2)
     - [Mods Removed](#mods-removed-2)
     - [Mods Updated](#mods-updated-2)
+  - [2.1.0: Various Updates](#210-various-updatesnot-savefile-safe)
+    - [Mods Added](#mods-added-3)
+    - [Mods Removed](#mods-removed-3)
+    - [Mods Updated](#mods-updated-3)
     - [Patcher Output Updates](#patcher-output-updates)
   - [2.0.4: Various Updates](#204-various-updatessavefile-safe)
-    - [Mods Added](#mods-added-3)
-    - [Mods Updated](#mods-updated-3)
+    - [Mods Added](#mods-added-4)
+    - [Mods Updated](#mods-updated-4)
     - [Patcher Output Updates](#patcher-output-updates-1)
   - [2.0.3: Visual Update](#203-visual-updatesavefile-safe)
-    - [Mods Added](#mods-added-4)
-    - [Mods Removed](#mods-removed-3)
-    - [Mods Updated](#mods-updated-4)
-  - [2.0.2: Minor Updates](#202-minor-updatessavefile-safe)
     - [Mods Added](#mods-added-5)
     - [Mods Removed](#mods-removed-4)
+    - [Mods Updated](#mods-updated-5)
+  - [2.0.2: Minor Updates](#202-minor-updatessavefile-safe)
+    - [Mods Added](#mods-added-6)
+    - [Mods Removed](#mods-removed-5)
     - [Other Changes](#other-changes)
   - [2.0.1: You Should Update! Fixes game breaking bug](#201-you-should-update-fixes-game-breaking-bug)
-    - [Mods Removed](#mods-removed-5)
-    - [Mods Updated](#mods-updated-5)
+    - [Mods Removed](#mods-removed-6)
+    - [Mods Updated](#mods-updated-6)
     - [Other Changes](#other-changes-1)
   - [2.0: Welcome to the Special Edition](#20-welcome-to-the-special-edition)
+
+## 2.2.0: [Engarde](NOT Savefile Safe)
+
+This update adds Engarde to overhaul melee combat and means that the next few updates will probably
+revolve around bug fixing, balancing and tweaking in relation to Engarde.
+
+Numerous reported issues/feature requests have been resolved in this release.  Thanks you all
+for so diligently reporting issues on GitHub!
+
+### Mods Added
+
+- Better Power Attack Direction Control [0.24](28 MISCELLANEOUS)
+- Deerstalker Redone [1.01](21 CREATURES)
+- Dog Replacer - Labrador [1.0](21 CREATURES)
+- Dragon Replacer [1.0](21 CREATURES)
+- Enderal Donkey [2.11](21 CREATURES)
+- Engarde [4.2.1](26 COMBAT & ENCOUNTERS)
+- Forgotten Dungeons - Abandoned Excavation Site [1.0](30 CONTENT ADDON)
+- Frost Troll Replacer [1.0](21 CREATURES)
+- Frostville [1.0](30 CONTENT ADDON)
+- NECROME [1.2](32 SOUND EFFECTS)
+- Organic Riften Leaves [1.0.2](09 TREES & PLANTS)
+- Predators [1.0](21 CREATURES)
+- Rustic Cooking [1.0](17 CLUTTER)
+- SC - Horse Replacer [1.0](21 CREATURES)
+- Smooth Random Magic Idle Animation [1.0](33 SKELETON & ANIMATIONS)
+- Take Clam Shell [3.1](18 FOOD & INGREDIENTS)
+- Tendril Vines [1.0](09 TREES & PLANTS)
+
+### Mods Removed
+
+- Ancient Pottery [1.1](16 DUNGEONS)
+- Better Donkey Texture and Model for Enderal [1.0](21 CREATURES)
+- Dear Diary - Enderal [2.2.4](04 INTERFACE)
+- Dragons [1.0](21 CREATURES)
+- Improved Atmosphere Mesh [1.0](06 WEATHER)
+- Rustic Cooking Station [1.0](17 CLUTTER)
+- SkyHUD [0.90B](04 INTERFACE)
+
+### Mods Updated
+
+- Amnesia Shrine [3.6](11 VANILLA LOCATIONS)
+- Display Tweaks [0.4.14](01 ESSENTIAL MODS)
+- Dear Diary [3.0.3](04 INTERFACE)
+- EMW Asset Replacer [0.5.1](20 UNIQUE ARTIFACTS)
+- ENB Light - Undead Creatures [1.1](35 ENB PARTICLE LIGHTS)
+- Enderal - Gameplay Overhaul [1.75.2](23 GAMEPLAY OVERHAUL)
+- Enderal - Gameplay Overhaul - Official Patches [1.08](23 GAMEPLAY OVERHAUL)
+- Enderal SE [2.0.8.2](00 BASE GAME)
+- Enderal SE - Bug Fixes [1.26.3](02 FIXES)
+- Enhanced Reanimation [1.3](23 GAMEPLAY OVERHAULS)
+- Equip Enchantment Fix [1.2.4](02 FIXES)
+- Essential Favorites [2.1](02 FIXES)
+- Flinching [1.37](33 SKELETON & ANIMATIONS)
+- More Informative Console [0.42](04 INTERFACE)
+- Papyrus Extender [4.3.7](34 UTILITIES)
+- Scrambled Bugs [6.0](02 FIXES)
+- Smooth Random Blocking Animation [2.0](Smooth Random Blocking Animation)
+- Soulgems [1.2](17 CLUTTER)
+- Storeable Phasmalist Talismans [1.01](28 MISCELLANEOUS)
+- Ultimate Potion Animation [1.4.2](33 SKELETON & ANIMATIONS)
+- Undead Creatures Replacers [1.2u](21 CREATURES)
+- Various Creatures Replacers [1.5v](21 CREATURES)
+- Vatyr [2.22](21 CREATURES)
+- Whiterun Mesh Fixes [1.1](13 ARCHITECTURE)
 
 ## 2.1.2: [Hotfix Update](Savefile Safe)
 
@@ -347,10 +416,12 @@ Mythical Rudy ENB was replaced due to issues with interior lighting.  The new EN
 ### Mods Updated
 
 - Classic Paralysis [3.0](28 MISCELLANEOUS)
+- Delectable Docks [1.2](11 VANILLA LOCATIONS)
 - Enderal SE [2.2](00 BASE GAME)
 - Faster Reanimation [1.1](33 SKELETON & ANIMATIONS)
 - Project Clarity - Effects Textures Redone [2.3](05 GRAPHICS BASELINE)
-- 
+- Enderal Apothekarii Monastery [1.02.1](30 CONTENT ADDON)
+  
 
 ## 2.0.2: [Minor Updates](Savefile Safe)
 
