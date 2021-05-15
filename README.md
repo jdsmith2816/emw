@@ -154,7 +154,12 @@ Locate the directory named Game Folder Files that is inside your Enderal install
 
 If an MCM page or a setting on an individual page is not listed then it is either already fully pre-configured by changes I have made or it does not need adjustment from it's default state.
 
-- This section intentionally left blank.
+- Engarde
+  - KeyButton
+    - Customize your keybinds;  I use M3 for Power Attack and Space for `Defensive Actions`
+    - Obviously if you use space for `Defensive Actions` then you need to go rebind jump to something else
+  - Others
+    - Click 'Activate mod' and close out of all the menus
 
 ## Tweaking Performance
 
